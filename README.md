@@ -26,4 +26,6 @@ Using dataset of test scores of students and amount of hours they studied for it
 Python 3 Use pip to install any dependencies.
 
 # Usage #
-Run linear_regression.py
+Run linear_regression.py to see results.
+
+<img src="https://github.com/hasanaliqureshi/Deep-Learning-Linear-Regression/blob/master/result.png" />
